@@ -1,0 +1,273 @@
+
+body {
+	padding: 0;
+	margin: 0;
+	background: #FFF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	font-family: 'Amita', cursive;
+}
+p {
+	margin: 0;
+	font-size:1em;
+	font-family: 'Ubuntu', sans-serif;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+label {
+	margin: 0;
+}
+
+.head{
+    background: url(ban6666.jpg) no-repeat 0px 0px;
+    background-size: cover;
+	min-height:750px;
+	    position: relative;
+}
+.Id {
+    float: center;
+}
+.ID-right{
+    width: 50%;
+    float: left;
+}
+.design  {
+    text-align: center;
+}
+.design3  {
+    text-align: center;
+}
+.design4 {
+    text-align: center;
+}
+ul.address {
+    margin-top: 2em;
+      border-top: 2px dotted #00bcd4;
+    padding-top: 0.5em;
+}
+ul.address li ul.text li {
+    display: inline-block;
+    font-size: 1em;
+    color:rgba(255, 255, 255, 0.76);
+    margin-top: 1em;
+    font-weight: 600;
+    font-family: 'Text Me One', sans-serif;
+}
+ul.address li ul.text li:nth-child(1) {
+    width: 20%;
+}
+.design1 {
+    padding: 5em 0 0 0;
+}
+.design  img {
+    width: 133px;
+    height: 120px;
+    border-radius: 50%;
+}
+.design  h3 {
+    color: #fff;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+.design  h4 {
+    color: green;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+.design  p {
+    color: #ffc53e;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+	letter-spacing: 2px;
+}
+.design3 {
+  border: 5px solid rgba(238, 238, 238, 0.53);
+    width: 900px;
+    height: 500px;
+    padding: 63px;
+    margin: 0 auto;
+}
+
+.design {
+  border: 5px solid rgba(238, 238, 238, 0.53);
+    width: 400px;
+    height: 400px;
+    padding: 63px;
+    margin: 0 auto;
+}
+li.texts-left b {
+    color: #fff;
+}
+
+.text12{
+ margin: center 0 auto; 
+ }
+ .design2 {
+    padding: 5em 0 0 0;
+}
+.design3 b{
+     color: orange;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+  letter-spacing: 2px;
+   font-family: 'Text ', Comic Sans MS;
+  }
+.design3 p{
+     color: lightgrey;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+  letter-spacing: 2px;
+   font-family: 'Text ', Comic Sans MS;
+   margin: 0;
+text-align: left;
+  }
+  .head2{
+     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(blog_single.jpg);
+    background-size: cover;
+  min-height:750px;
+      position: relative;
+}
+.design3  img {
+    width: 300px;
+    height: 200px;
+    border-radius: 75%;
+    margin-top: -40px;
+}
+.design3  h3 {
+    color: #fff;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+.design3  h4 {
+    color: green;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+.design2 {
+    padding: 5em 0 0 0;
+}
+.design3 b{
+     color: orange;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+  letter-spacing: 2px;
+   font-family: 'Text ', Comic Sans MS;
+  }
+.design3 p{
+     color: lightgrey;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+  letter-spacing: 2px;
+   font-family: 'Text ', Comic Sans MS;
+   margin: 0;
+text-align: left;
+  }
+
+  .head3{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(slider-03.jpg);
+    background-size: cover;
+  min-height:750px;
+      position: relative;
+}
+.design4  img {
+    width: 1000px;
+    height: 500px;
+    border-radius: 75%;
+    margin-top: -40px;
+}
+.design4  h3 {
+    color: #fff;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+.design4  h4 {
+    color: green;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+
+.design {
+    padding: 5em 0 0 0;
+}
+.design5 {
+  border: 5px solid rgba(238, 238, 238, 0.53);
+    width: 900px;
+    height: 500px;
+    padding: 63px;
+    margin : 0 auto;
+}
+.design6 b{
+     color: orange;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+  letter-spacing: 2px;
+   font-family: 'Text ', Comic Sans MS;
+  }
+.design6 p{
+     color: lightgrey;
+    font-size: 1em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+  letter-spacing: 2px;
+   font-family: 'Text ', Comic Sans MS;
+   margin: 0;
+text-align: left;
+  }
+  .head4{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(slider-01.jpg);
+    background-size: cover;
+  min-height:750px;
+      position: relative;
+}
+.design6  img {
+    width: 300px;
+    height: 200px;
+    border-radius: 75%;
+    margin-top: -40px;
+}
+.design6  h3 {
+    color: #fff;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
+.design6 h4 {
+    color: green;
+    font-size: 2.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+        letter-spacing:1px;
+   font-family: 'Raleway', sans-serif;
+}
